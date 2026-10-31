@@ -1,0 +1,6 @@
+{
+  "name": "VOID — Next-Generation Fashion E-Commerce",
+  "description": "High-end luxury streetwear experience with cinematic transitions, curated collections, interactive cart, and editorial fashion showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
